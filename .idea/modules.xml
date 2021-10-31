@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mongo-backend/mongo-backend.iml" filepath="$PROJECT_DIR$/mongo-backend/mongo-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo-model/mongo-model.iml" filepath="$PROJECT_DIR$/mongo-model/mongo-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo-parent/mongo-parent.iml" filepath="$PROJECT_DIR$/mongo-parent/mongo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo-rest/mongo-rest.iml" filepath="$PROJECT_DIR$/mongo-rest/mongo-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-mongo.iml" filepath="$PROJECT_DIR$/.idea/spring-mongo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mongo-rest" />
+        <module name="mongo-model" />
+        <module name="mongo-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mongo-backend" target="17" />
+      <module name="mongo-model" target="17" />
+      <module name="mongo-parent" target="17" />
+      <module name="mongo-rest" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
